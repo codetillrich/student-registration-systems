@@ -1,0 +1,3 @@
+001,s001,Phannay,10/10/1997,Kampot,Data Science,12
+002,s002,Chilean,20/01/2000,KPS,DS,11
+003,Houy,Houy,10/10/2003,KPS,12,12
